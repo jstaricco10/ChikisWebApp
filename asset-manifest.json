@@ -1,7 +1,7 @@
 {
   "main.css": "/ChikisWebApp/static/css/main.617fa030.chunk.css",
-  "main.js": "/ChikisWebApp/static/js/main.29f9947b.chunk.js",
-  "main.js.map": "/ChikisWebApp/static/js/main.29f9947b.chunk.js.map",
+  "main.js": "/ChikisWebApp/static/js/main.ac061234.chunk.js",
+  "main.js.map": "/ChikisWebApp/static/js/main.ac061234.chunk.js.map",
   "static/css/1.0a78e9e6.chunk.css": "/ChikisWebApp/static/css/1.0a78e9e6.chunk.css",
   "static/js/1.11cd1e69.chunk.js": "/ChikisWebApp/static/js/1.11cd1e69.chunk.js",
   "static/js/1.11cd1e69.chunk.js.map": "/ChikisWebApp/static/js/1.11cd1e69.chunk.js.map",
@@ -12,7 +12,7 @@
   "static/media/rest1.jpg": "/ChikisWebApp/static/media/rest1.e815618b.jpg",
   "static/media/rest2.jpg": "/ChikisWebApp/static/media/rest2.607d8c5c.jpg",
   "static/media/rest3.jpg": "/ChikisWebApp/static/media/rest3.69a5c317.jpg",
-  "static/media/section.css": "/ChikisWebApp/static/media/vlad.08b712fa.jpg",
+  "static/media/section.css": "/ChikisWebApp/static/media/vlad-img.16ed31e3.jpg",
   "static/media/tile.css": "/ChikisWebApp/static/media/offerpic2.98a31e01.jpeg",
   "static/media/specOffer.css": "/ChikisWebApp/static/media/pizzaParty.5baccd35.jpg",
   "static/media/menuHeader.css": "/ChikisWebApp/static/media/jay.0c2e4622.jpg",
@@ -23,6 +23,6 @@
   "static/css/main.617fa030.chunk.css.map": "/ChikisWebApp/static/css/main.617fa030.chunk.css.map",
   "static/css/1.0a78e9e6.chunk.css.map": "/ChikisWebApp/static/css/1.0a78e9e6.chunk.css.map",
   "index.html": "/ChikisWebApp/index.html",
-  "precache-manifest.4750fa5f5c22f1e7870efee3cfb85a42.js": "/ChikisWebApp/precache-manifest.4750fa5f5c22f1e7870efee3cfb85a42.js",
+  "precache-manifest.a4c702e7aec114a8a312a723fe8f6579.js": "/ChikisWebApp/precache-manifest.a4c702e7aec114a8a312a723fe8f6579.js",
   "service-worker.js": "/ChikisWebApp/service-worker.js"
 }

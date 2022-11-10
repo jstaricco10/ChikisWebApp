@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "29f9947b29daf6030aaf",
+    "revision": "ac06123443c4ac435a59",
     "url": "/ChikisWebApp/static/css/main.617fa030.chunk.css"
   },
   {
-    "revision": "29f9947b29daf6030aaf",
-    "url": "/ChikisWebApp/static/js/main.29f9947b.chunk.js"
+    "revision": "ac06123443c4ac435a59",
+    "url": "/ChikisWebApp/static/js/main.ac061234.chunk.js"
   },
   {
     "revision": "11cd1e69d28229995efc",
@@ -40,32 +40,32 @@ self.__precacheManifest = [
     "url": "/ChikisWebApp/static/media/rest3.69a5c317.jpg"
   },
   {
-    "revision": "16ed31e3a057b75b15ac7e8a593ed0a3",
-    "url": "/ChikisWebApp/static/media/vlad-img.16ed31e3.jpg"
-  },
-  {
     "revision": "08b712fabaf8b9cf2c537dccc9e887d4",
     "url": "/ChikisWebApp/static/media/vlad.08b712fa.jpg"
   },
   {
-    "revision": "3b8d7c2407dd4d3f76bff5536321c40a",
-    "url": "/ChikisWebApp/static/media/offerpic.3b8d7c24.jpg"
+    "revision": "16ed31e3a057b75b15ac7e8a593ed0a3",
+    "url": "/ChikisWebApp/static/media/vlad-img.16ed31e3.jpg"
   },
   {
     "revision": "90c43111d6e3f02b477e54a3342d78a1",
     "url": "/ChikisWebApp/static/media/contact_us.90c43111.jpg"
   },
   {
-    "revision": "38c7ac15cc429d67b46f7585c258b3b5",
-    "url": "/ChikisWebApp/static/media/green_burger.38c7ac15.jpg"
-  },
-  {
     "revision": "f11a6e5a5ae93f01015ccefc2cb29291",
     "url": "/ChikisWebApp/static/media/birthday.f11a6e5a.jpg"
   },
   {
+    "revision": "3b8d7c2407dd4d3f76bff5536321c40a",
+    "url": "/ChikisWebApp/static/media/offerpic.3b8d7c24.jpg"
+  },
+  {
     "revision": "32ee529ec6bcc4967e5335a7127d1131",
     "url": "/ChikisWebApp/static/media/offerpic3.32ee529e.jpg"
+  },
+  {
+    "revision": "38c7ac15cc429d67b46f7585c258b3b5",
+    "url": "/ChikisWebApp/static/media/green_burger.38c7ac15.jpg"
   },
   {
     "revision": "98a31e019b14f021c970188c87cff3f7",
@@ -96,7 +96,7 @@ self.__precacheManifest = [
     "url": "/ChikisWebApp/static/media/offer.d5ab2f42.png"
   },
   {
-    "revision": "65a6faac05e4831c128e88d4672ef728",
+    "revision": "0cc12d8da5f3996f75799ded304cca47",
     "url": "/ChikisWebApp/index.html"
   }
 ];
