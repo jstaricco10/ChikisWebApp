@@ -48,24 +48,24 @@ self.__precacheManifest = [
     "url": "/ChikisWebApp/static/media/vlad-img.16ed31e3.jpg"
   },
   {
-    "revision": "f11a6e5a5ae93f01015ccefc2cb29291",
-    "url": "/ChikisWebApp/static/media/birthday.f11a6e5a.jpg"
-  },
-  {
-    "revision": "3b8d7c2407dd4d3f76bff5536321c40a",
-    "url": "/ChikisWebApp/static/media/offerpic.3b8d7c24.jpg"
+    "revision": "38c7ac15cc429d67b46f7585c258b3b5",
+    "url": "/ChikisWebApp/static/media/green_burger.38c7ac15.jpg"
   },
   {
     "revision": "90c43111d6e3f02b477e54a3342d78a1",
     "url": "/ChikisWebApp/static/media/contact_us.90c43111.jpg"
   },
   {
-    "revision": "38c7ac15cc429d67b46f7585c258b3b5",
-    "url": "/ChikisWebApp/static/media/green_burger.38c7ac15.jpg"
+    "revision": "f11a6e5a5ae93f01015ccefc2cb29291",
+    "url": "/ChikisWebApp/static/media/birthday.f11a6e5a.jpg"
   },
   {
     "revision": "32ee529ec6bcc4967e5335a7127d1131",
     "url": "/ChikisWebApp/static/media/offerpic3.32ee529e.jpg"
+  },
+  {
+    "revision": "3b8d7c2407dd4d3f76bff5536321c40a",
+    "url": "/ChikisWebApp/static/media/offerpic.3b8d7c24.jpg"
   },
   {
     "revision": "98a31e019b14f021c970188c87cff3f7",
